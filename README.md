@@ -30,7 +30,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DeriveTEch/DeriveTEch/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
